@@ -22,16 +22,11 @@
                 <li class="nav-item dropdown {{menu.class}}">
                     <a class="nav-link dropdown-toggle {{menu.class}}" href="#" id="navbarDropdown" role="button"
                     data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        {{menu.title|capitalize}}
+                        {{menu.title}}
                     </a>
                     <div class="dropdown-menu p-0" aria-labelledby="navbarDropdown">
-                        {% assign categories = menu.menus | map: "category" | uniq %}
-                        {% for c in categories %}
-                            <span class="dropdown-item font-weight-bold bg-dark text-light">{{c|capitalize}}</span>
-                            {% assign category_menu = menu.menus | where: "category",c %}
-                            {% for cm in category_menu %}
-                                <a class="dropdown-item" href="{{cm.uri}}">{{cm.title|capitalize}}</a>
-                            {% endfor %}
+                        {% for c in menu.menus %}
+                            <a class="dropdown-item" href="{{c.uri}}">{{c.title}}</a>
                         {% endfor %}                    
                     </div>
                 </li>
