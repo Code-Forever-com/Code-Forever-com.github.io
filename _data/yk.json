@@ -1,0 +1,42 @@
+[
+  {
+    "image": "https://robot.metu.edu.tr/wp-content/uploads/2020/10/talha.jpg",
+    "name": "Talha Tazar",
+    "label": "Yönetim Kurulu Başkanı"
+  },
+  {
+    "image": "https://robot.metu.edu.tr/wp-content/uploads/2020/10/ufuk.jpg",
+    "name": "Ufuk Can Karataş",
+    "label": "ODTÜ-TEK Kaptanı"
+  },
+  {
+    "image": "https://robot.metu.edu.tr/wp-content/uploads/2020/10/melis.jpg",
+    "name": "Melis Başak Taşdemir",
+    "label": "Genel Sekreter"
+  },
+  {
+    "image": "https://robot.metu.edu.tr/wp-content/uploads/2020/10/ezgi.jpg",
+    "name": "Ezgi Deniz",
+    "label": "Organizasyon Direktörü"
+  },
+  {
+    "image": "https://robot.metu.edu.tr/wp-content/uploads/2020/10/doruk.jpg",
+    "name": "Doruk Türkmen",
+    "label": "Tanıtım Direktörü"
+  },
+  {
+    "image": "https://robot.metu.edu.tr/wp-content/uploads/2020/10/mert.jpg",
+    "name": "Mert Yalçın",
+    "label": "Finans Direktörü"
+  },
+  {
+    "image": "https://robot.metu.edu.tr/wp-content/uploads/2020/10/orcun.jpg",
+    "name": "Orçun Bilgi",
+    "label": "Eğitim Direktörü"
+  },
+  {
+    "image": "https://robot.metu.edu.tr/wp-content/uploads/2020/10/atilla.jpg",
+    "name": "Atilla Can Aydemir",
+    "label": "Etkinlik Direktörü"
+  }
+]
