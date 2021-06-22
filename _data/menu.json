@@ -1,73 +1,62 @@
 [
     {
       "plural": false,
-      "title": "Home",
+      "title": "Ana Sayfa",
       "uri": "/"
     },
     {
       "plural": true,
-      "title": "Who am I?",
+      "title": "Hakkımızda",
       "uri": "#",
       "menus": [{
-        "title": "Stingy Developer Official Blog",
-        "uri": "https://stingy-developer.blogspot.com/",
-        "category": "Websites"
+        "title": "Biz Kimiz",
+        "uri": "/biz-kimiz/"
       },
       {
-        "title": "Stingy Developer Medium Blog",
-        "uri": "https://medium.com/stingy-developer",
-        "category": "Websites"
+        "title": "Yönetim Kurulu",
+        "uri": "/yonetim-kurulu/"
       },
       {
-        "title": "Instagram",
-        "uri": "https://instagram.com/stingy-developer",
-        "category": "Social Media"
+        "title": "İdari Kurul",
+        "uri": "/idari-kurul/"
       },
       {
-        "title": "Youtube",
-        "uri": "https://www.youtube.com/channel/UCczSw_VRVvRKDGZopL_0LlA",
-        "category": "Social Media"
+        "title": "Denetleme Kurulu",
+        "uri": "/denetleme-kurulu/"
+      },
+      {
+        "title": "Medyada ORT",
+        "uri": "/medyada-ort/"
+      }
+    ]
+    },
+    {
+      "plural": true,
+      "title": "Etkinliklerimiz",
+      "uri": "#",
+      "menus": [{
+        "title": "UORG",
+        "uri": "/uorg/"
+      },
+      {
+        "title": "Robotalks",
+        "uri": "/robotalks/"
       }
     ]
     },
      {
       "plural": false,
-      "title": "About",
-      "uri": "/about/"
+      "title": "Takımlarımız",
+      "uri": "/takimlarimiz/"
     },
     {
       "plural": false,
-      "title": "Blog",
-      "uri": "/posts/"
+      "title": "Sponsorlar",
+      "uri": "/sponsorlar/"
     },
     {
       "plural": false,
-      "title": "Components",
-      "uri": "/components/"
-    },
-    {
-      "plural": false,
-      "title": "Register",
-      "uri": "/signup/",
-      "class": "text-light rounded-pill bg-success text-light unauth"
-    },
-    {
-      "plural": false,
-      "title": "Sign In",
-      "uri": "/signin/",
-      "class": "unauth"
-    },
-    {
-      "plural": false,
-      "title": "Profile",
-      "uri": "/profile/",
-      "class": "auth"
-    },
-    {
-      "plural": false,
-      "title": "Hi",
-      "uri": "#",
-      "class": "auth user"
+      "title": "İletişim",
+      "uri": "/iletişim/"
     }
-    
 ]
