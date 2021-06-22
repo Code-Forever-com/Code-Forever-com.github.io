@@ -1,64 +1,68 @@
 [
     {
-        "title": "Stingy Developer",
+        "title": "ORT",
         "datas": [
             {
-                "title": "Blog",
-                "url" : "https://stingy-developer.blogspot.com/"
-            },
-            {
-                "title": "Medium",
-                "url" : "https://medium.com/stingy-developer"
-            },
-            {
-                "title": "YouTube",
-                "url" : "https://www.youtube.com/channel/UCczSw_VRVvRKDGZopL_0LlA"
+                "title": "Facebook",
+                "url" : "https://www.facebook.com/odturobottoplulugu/"
             },
             {
                 "title": "Instagram",
-                "url" : "https://instagram.com/stingy-developer"
+                "url" : "http://instagram.com/odturobot"
+            },
+            {
+                "title": "YouTube",
+                "url" : "https://www.youtube.com/channel/UCHtTRzPxVk52h-wYy8MwcOw"
+            },
+            {
+                "title": "Linkedin",
+                "url" : "https://www.linkedin.com/company/odturobot"
             },
             {
                 "title": "Twitter",
-                "url" : "https://twitter.com/DeveloperStingy"
+                "url" : "https://twitter.com/odturobot?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
             }
         ]
     },
     {
-        "title": "Pages",
+        "title": "Sayfalar",
         "datas": [
             {
-                "title": "Home",
-                "url" : "https://cover-ui.github.io/"
+                "title": "Ana Sayfa",
+                "url" : "/"
             },
             {
-                "title": "About",
-                "url" : "/about/"
+                "title": "Hakkımızda",
+                "url" : "/biz-kimiz/"
             },
             {
-                "title": "Blog",
-                "url" : "/posts/"
+                "title": "Takımlarımız",
+                "url" : "/takimlarimiz/"
             },
             {
-                "title": "Components",
-                "url" : "/components/"
+                "title": "Sponsorlar",
+                "url" : "/sponsorlar/"
+            },
+            {
+                "title": "İletişim",
+                "url" : "/iletişim/"
             }
         ]
     },
     {
-        "title": "Account",
+        "title": "Etkinlikler",
         "datas": [
             {
-                "title": "Register",
-                "url" : "/signup/"
+                "title": "UORG",
+                "url" : "/uorg/"
             },
             {
-                "title": "Sign In",
-                "url" : "/signin/"
+                "title": "Robotalks",
+                "url" : "/robotalks/"
             },
             {
-                "title": "Profile",
-                "url" : "/profile/"
+                "title": "NEW!",
+                "url" : "#"
             }
         ]
     },
