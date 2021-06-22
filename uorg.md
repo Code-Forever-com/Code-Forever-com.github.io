@@ -9,17 +9,17 @@ Türkiye ayağını TRT’nin 2002 yılında düzenlemeye başladığı Robocon 
 <div class="row">
 <div class="col-12 col-md-4">
 
-![1](https://robot.metu.edu.tr/wp-content/uploads/2020/10/WhatsApp-Image-2020-09-10-at-11.07.59-PM.jpeg)
+<img src="https://robot.metu.edu.tr/wp-content/uploads/2020/10/WhatsApp-Image-2020-09-10-at-11.07.59-PM.jpeg">
 
 </div>
 <div class="col-12 col-md-4">
 
-![2](https://robot.metu.edu.tr/wp-content/uploads/2020/10/WhatsApp-Image-2020-09-10-at-11.04.54-PM.jpeg)
+<img src="https://robot.metu.edu.tr/wp-content/uploads/2020/10/WhatsApp-Image-2020-09-10-at-11.04.54-PM.jpeg">
 
 </div>
 <div class="col-12 col-md-4">
 
-![3](https://robot.metu.edu.tr/wp-content/uploads/2020/10/WhatsApp-Image-2020-09-10-at-11.08.04-PM.jpeg)
+<img src="https://robot.metu.edu.tr/wp-content/uploads/2020/10/WhatsApp-Image-2020-09-10-at-11.08.04-PM.jpeg">
 
 </div>
 </div>
@@ -29,22 +29,31 @@ Uluslararası ODTÜ Robot Günleri , her yıl 500’ün üzerinde yarışmacı v
 <div class="row">
 <div class="col-12 col-md-6">
 
-![4](https://robot.metu.edu.tr/wp-content/uploads/2020/10/WhatsApp-Image-2020-09-10-at-11.09.30-PM.jpeg)
+<img src="https://robot.metu.edu.tr/wp-content/uploads/2020/10/WhatsApp-Image-2020-09-10-at-11.09.30-PM.jpeg">
 
 </div>
 <div class="col-12 col-md-6">
 
-![5](https://robot.metu.edu.tr/wp-content/uploads/2020/10/WhatsApp-Image-2020-09-10-at-11.07.35-PM.jpeg)
+<img src="https://robot.metu.edu.tr/wp-content/uploads/2020/10/WhatsApp-Image-2020-09-10-at-11.07.35-PM.jpeg">
 
 </div>
 </div>
 
 [Detaylı Bilgi](https://odturobotgunleri.org.tr/)
 
-![1. UORG Afişi](https://robot.metu.edu.tr/wp-content/uploads/2020/10/WhatsApp-Image-2020-09-10-at-3.58.58-PM.jpeg)
+<div class="row">
+<div class="col-12 col-md-6">
+  
+<img src="https://robot.metu.edu.tr/wp-content/uploads/2020/10/WhatsApp-Image-2020-09-10-at-3.58.58-PM.jpeg">
 
 1. UORG Afişi
 
-![17. UORG Afişi](https://robot.metu.edu.tr/wp-content/uploads/2020/10/WhatsApp-Image-2020-09-10-at-4.00.48-PM.jpeg)
+  </div>
+<div class="col-12 col-md-6">
+
+<img src="https://robot.metu.edu.tr/wp-content/uploads/2020/10/WhatsApp-Image-2020-09-10-at-4.00.48-PM.jpeg">
 
 17. UORG Afişi
+  
+  </div>
+</div>
