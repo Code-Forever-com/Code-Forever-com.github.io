@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://cover-ui.github.io
+url: code-forever-com.github.io
 
 #
 # !! You don't need to change any of the configuration flags below !!
@@ -83,30 +83,5 @@ exclude:
   - README.md
   - CNAME
 
-feed:
-  collections:
-    - components
-    - wp_theme_docs
-    - apps
 
-collections:
-  components:
-    output: true
-  wp_theme_docs:
-    output: true
-    permalink: /:collection/:title/
-    order:
-      - getting-started
-      - theme-basics
-      - template-files
-      - theme-functonality
-      - customizer
-      - theme-security
-      - advanced-theme-topic
-      - releasing-your-theme
-  apps:
-    output: true
-    permalink: /apps/:title/
-  dependencies:
-    output: false
      
