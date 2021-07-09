@@ -6,16 +6,14 @@ permalink: /yonetim-kurulu/
 
 
 <div class="row">
-{% for i in (1..3) %}
-    {% if site.data.yk[i] %}
-      <div class="col d-flex text-center">
-        <img src="{{ site.data.yk[i].image }}" />
+{% for i in site.data.yk %}
+      <div class="col-12 col-md-4 d-flex text-center">
+        <img src="{{ i.image }}" />
         <div>
-          {{ site.data.yk[i].name }}
+          {{ i.name }}
         </div>
        
       </div>      
-    {% endif %] 
   
 {% endfor %}
     </div> 
