@@ -4,4 +4,4 @@ title: Yönetim Kurulu
 permalink: /yonetim-kurulu/
 ---
 
-{{ site.data.yk.count }}
+{{ site.data.yk | size }}
