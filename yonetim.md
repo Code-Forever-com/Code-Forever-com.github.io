@@ -5,7 +5,6 @@ permalink: /yonetim-kurulu/
 ---
 
 
-{% assign count = site.data.yk | size %}
 <div class="row">
 {% for i in (1..3) %}
     {% if site.data.yk[i] %}
@@ -17,9 +16,8 @@ permalink: /yonetim-kurulu/
         <div>
           {{ site.data.yk[i].label }}
         </div>
-      
-    {% endif %]
-  </div>
-  </div>  
+        </div>      
+    {% endif %] 
   
 {% endfor %}
+    </div> 
