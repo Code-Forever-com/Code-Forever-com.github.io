@@ -4,6 +4,7 @@ title: "Görev: Yer Altı"
 permalink: /gorev-yer-alti/
 ---
 
+![thumbnail](https://user-images.githubusercontent.com/59289764/125142891-8f57d300-e121-11eb-94d1-5d1570fb0162.png)
 
 Robotik bilimi ve robotlar hayatımızın her noktasında yerini alırken insansız görevler için geliştirilen robotlara yoğun mesai harcanıyor. İnsansız robotların öncelikli hedefi insan canını korumak ve kurtarmak, bu nedenle arama-kurtarma, keşif gibi görevlerde yer alan robotlar için farklı platform çalışmaları sürüyor. Görev: Yer Altı’nın hizmet ettiği amaç ise yer altı koşullarında insanın fizikî varoluşuna ihtiyaç duymadan çeşitli görevleri tamamlayabilecek robot fikirlerinin keşfedilmesidir.
 Bu amaç doğrultusunda “akıllı teknolojiler entegre çözümler” anlayışını benimseyen, 38 yıllık tecrübe sahibi HAVELSAN ile iş birliğimizin, yarışma kazanımlarını uluslararası boyuta taşımasını, aynı zamanda yerli ve milli teknolojilere katkıda bulunmasını diliyoruz.
