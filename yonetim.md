@@ -13,9 +13,7 @@ permalink: /yonetim-kurulu/
         <div>
           {{ site.data.yk[i].name }}
         </div>
-        <div>
-          {{ site.data.yk[i].label }}
-        </div>
+       
       </div>      
     {% endif %] 
   
