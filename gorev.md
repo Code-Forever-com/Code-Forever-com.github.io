@@ -4,6 +4,26 @@ title: "Görev: Yer Altı"
 permalink: /gorev-yer-alti/
 ---
 
+<style>
+      .embed-responsive{
+                position: relative;
+    display: block;
+    width: 100%;
+    padding: 0;
+    overflow: hidden;
+      }
+      
+      .embed-responsive-item{
+          position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+      }
+</style>
+
 <div class="row">
       <img src="https://user-images.githubusercontent.com/59289764/125142891-8f57d300-e121-11eb-94d1-5d1570fb0162.png" class="w-100"/>
 </div>
