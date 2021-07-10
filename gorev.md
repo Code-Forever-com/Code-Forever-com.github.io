@@ -55,3 +55,8 @@ HAVELSAN mühendisleri ve ODTÜ akademisyenlerinin jüri olarak yer alacağı bu
       </div>      
 {% endfor %}
 </div> 
+
+
+## Soru-Cevap
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdjQJUnU5HHuRAemPAgc9yDIT23SyjStp_YpYShRMHhZBNZCA/viewform?embedded=true" width="640" height="725" frameborder="0" marginheight="0" marginwidth="0">Yükleniyor…</iframe>
