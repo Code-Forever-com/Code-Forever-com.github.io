@@ -11,6 +11,7 @@ permalink: /gorev-yer-alti/
     width: 100%;
     padding: 0;
     overflow: hidden;
+         padding-top: 56.25%;
       }
       
       .embed-responsive-item{
@@ -22,6 +23,7 @@ permalink: /gorev-yer-alti/
     height: 100%;
     border: 0;
       }
+      
 </style>
 
 <div class="row">
