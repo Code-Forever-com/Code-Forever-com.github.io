@@ -14,9 +14,10 @@ Bir robotik kavramsal tasarım yarışması olan Görev: Yer Altı, belirtilen p
 HAVELSAN mühendisleri ve ODTÜ akademisyenlerinin jüri olarak yer alacağı bu yarışmada, robotik alanında çalışmalar gösteren insanlar ile bir araya gelme fırsatını ve büyük ödülleri kaçırmayın!
 
 ### Pist
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/14x37Z5qpXQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<div class="embed-responsive embed-responsive-16by9">
+<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/14x37Z5qpXQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+      
 ### Jüriler
 
 <div class="row">
