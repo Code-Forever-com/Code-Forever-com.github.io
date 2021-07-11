@@ -42,9 +42,9 @@ Bu amaç doğrultusunda “akıllı teknolojiler entegre çözümler” anlayı�
 Bir robotik kavramsal tasarım yarışması olan Görev: Yer Altı, belirtilen pist özelliklerine uygun ve görevleri tamamlayabilecek robot fikirlerinin, çözümler ve tasarılarla birlikte çevrimiçi ortamda sunulmasını kapsamaktadır. Bir proje gelişim raporu, bir final sunumu ve jüri değerlendirmesi ile sonuçlanacak yarışmada; içerikler, pist özellikleri, puanlama kriterleri, önemli tarihler ve ödüller yarışma dosyaları bölümünde verilmiştir.
 HAVELSAN mühendisleri ve ODTÜ akademisyenlerinin jüri olarak yer alacağı bu yarışmada, robotik alanında çalışmalar gösteren insanlar ile bir araya gelme fırsatını ve büyük ödülleri kaçırmayın!
 
-<div class="row mb-3">
-      <div class="col-12">
-      <a class="btn btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSc46P6evR_gZbSNUd9pXOqYflcbX2ufnTXPenp-XCAZ3yz2YQ/viewform?usp=sf_link">
+<div class="row my-5">
+      <div class="col-12 text-center">
+      <a class="btn btn-primary btn-lg d-block" href="https://docs.google.com/forms/d/e/1FAIpQLSc46P6evR_gZbSNUd9pXOqYflcbX2ufnTXPenp-XCAZ3yz2YQ/viewform?usp=sf_link">
             Kayıt Ol
       </a>
       </div>
@@ -56,9 +56,9 @@ HAVELSAN mühendisleri ve ODTÜ akademisyenlerinin jüri olarak yer alacağı bu
 </div>
  
 
-<div class="row my-3">
-      <div class="col-12">
-      <a class="btn btn-primary" href="https://github.com/Stingy-Developer/Stingy-Developer.github.io/files/6797760/Pist.Ozellikleri.ve.Puanlama.1.pdf">Pist Özellikleri ve Puanlama</a>
+<div class="row my-5">
+      <div class="col-12 text-center">
+      <a class="btn btn-primary btn-lg d-block" href="https://github.com/Stingy-Developer/Stingy-Developer.github.io/files/6797760/Pist.Ozellikleri.ve.Puanlama.1.pdf">Pist Özellikleri ve Puanlama</a>
       </div>
 </div>
  
