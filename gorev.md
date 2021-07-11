@@ -33,7 +33,7 @@ permalink: /gorev-yer-alti/
       
 </style>
 
-<div class="row">
+<div class="row my-5">
       <img src="https://user-images.githubusercontent.com/59289764/125142891-8f57d300-e121-11eb-94d1-5d1570fb0162.png" class="w-100"/>
 </div>
 
@@ -41,6 +41,12 @@ Robotik bilimi ve robotlar hayatımızın her noktasında yerini alırken insans
 Bu amaç doğrultusunda “akıllı teknolojiler entegre çözümler” anlayışını benimseyen, 38 yıllık tecrübe sahibi HAVELSAN ile iş birliğimizin, yarışma kazanımlarını uluslararası boyuta taşımasını, aynı zamanda yerli ve milli teknolojilere katkıda bulunmasını diliyoruz.
 Bir robotik kavramsal tasarım yarışması olan Görev: Yer Altı, belirtilen pist özelliklerine uygun ve görevleri tamamlayabilecek robot fikirlerinin, çözümler ve tasarılarla birlikte çevrimiçi ortamda sunulmasını kapsamaktadır. Bir proje gelişim raporu, bir final sunumu ve jüri değerlendirmesi ile sonuçlanacak yarışmada; içerikler, pist özellikleri, puanlama kriterleri, önemli tarihler ve ödüller yarışma dosyaları bölümünde verilmiştir.
 HAVELSAN mühendisleri ve ODTÜ akademisyenlerinin jüri olarak yer alacağı bu yarışmada, robotik alanında çalışmalar gösteren insanlar ile bir araya gelme fırsatını ve büyük ödülleri kaçırmayın!
+
+<div class="row mb-3">
+      <a class="btn btn-primmary" href="https://docs.google.com/forms/d/e/1FAIpQLSc46P6evR_gZbSNUd9pXOqYflcbX2ufnTXPenp-XCAZ3yz2YQ/viewform?usp=sf_link">
+            Kayıt Ol
+      </a>
+</div>
 
 ## Pist
 <div class="embed-responsive embed-responsive-16by9">
