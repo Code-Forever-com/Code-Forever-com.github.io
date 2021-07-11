@@ -54,7 +54,38 @@ HAVELSAN mühendisleri ve ODTÜ akademisyenlerinin jüri olarak yer alacağı bu
 <div class="embed-responsive embed-responsive-16by9">
 <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/14x37Z5qpXQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-      
+ 
+
+<div class="row my-3">
+      <div class="col-12">
+      <a class="btn btn-primary" href="https://github.com/Stingy-Developer/Stingy-Developer.github.io/files/6797760/Pist.Ozellikleri.ve.Puanlama.1.pdf">Pist Özellikleri ve Puanlama</a>
+      </div>
+</div>
+ 
+
+
+## Önemli Tarihler
+Tarih (Saat)| Yapılacaklar
+---|---
+12.07.2021 | Etkinliğin duyurulması
+12.07.2021 - 25.07.2021 (23.59) | Başvurular
+26.07.2021 | 1.Soru-cevap yayını
+15.08.2021 (23.59) | Proje Gelişim Raporu teslim tarihi
+18.08.2021 | 2.Soru-cevap yayını
+12.09.2021 (23.59) | Final Sunumu teslim tarihi
+16.09.2021 | Finale kalan takımların ilanı
+19.09.2021 | Jüri ve kazanan takımın ilanı
+---
+
+## Ödüller
+* 1.takıma 3D Yazıcı (3D4E)
+* 2.takıma Drone (DJI Mavic Air 2 Fly More Combo) 
+* 3.takıma 5000 ₺
+
+
+
+<!--
+
 ## Jüriler
 
 <div class="row">
@@ -71,6 +102,7 @@ HAVELSAN mühendisleri ve ODTÜ akademisyenlerinin jüri olarak yer alacağı bu
 {% endfor %}
 </div> 
 
+-->
 
 ## Soru-Cevap
 
