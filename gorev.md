@@ -66,47 +66,54 @@ HAVELSAN mühendisleri ve ODTÜ akademisyenlerinin jüri olarak yer alacağı bu
 
 ## Önemli Tarihler
 
-<table class="table">
+<table class="table table-striped">
   <thead>
     <tr>
-      <th scope="col">#</th>
-      <th scope="col">First</th>
-      <th scope="col">Last</th>
-      <th scope="col">Handle</th>
+      <th scope="col">Tarih (Saat)</th>
+      <th scope="col">Yapılacaklar</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th scope="row">1</th>
-      <td>Mark</td>
-      <td>Otto</td>
-      <td>@mdo</td>
+      <td>12.07.2021</td>
+      <td>Etkinliğin duyurulması</td>
     </tr>
-    <tr>
-      <th scope="row">2</th>
-      <td>Jacob</td>
-      <td>Thornton</td>
-      <td>@fat</td>
+     <tr>
+      <td>12.07.2021 - 25.07.2021 (23.59)</td>
+      <td>Başvurular</td>
     </tr>
-    <tr>
-      <th scope="row">3</th>
-      <td colspan="2">Larry the Bird</td>
-      <td>@twitter</td>
+        <tr>
+      <td>26.07.2021</td>
+      <td>1.Soru-cevap yayını</td>
     </tr>
+        <tr>
+      <td>15.08.2021 (23.59)</td>
+      <td>Proje Gelişim Raporu teslim tarihi</td>
+    </tr>
+        
+         <tr>
+      <td>18.08.2021</td>
+      <td>2.Soru-cevap yayını</td>
+    </tr>
+        
+         <tr>
+      <td>12.09.2021 (23.59)</td>
+      <td>Final Sunumu teslim tarihi</td>
+    </tr>
+        
+         <tr>
+      <td>16.09.2021</td>
+      <td>Finale kalan takımların ilanı</td>
+    </tr>
+        
+         <tr>
+      <td>19.09.2021</td>
+      <td>Jüri ve kazanan takımın ilanı</td>
+    </tr>
+        
+        
   </tbody>
 </table>
-
-Tarih (Saat)| Yapılacaklar
----|---
-12.07.2021 | Etkinliğin duyurulması
-12.07.2021 - 25.07.2021 (23.59) | Başvurular
-26.07.2021 | 1.Soru-cevap yayını
-15.08.2021 (23.59) | Proje Gelişim Raporu teslim tarihi
-18.08.2021 | 2.Soru-cevap yayını
-12.09.2021 (23.59) | Final Sunumu teslim tarihi
-16.09.2021 | Finale kalan takımların ilanı
-19.09.2021 | Jüri ve kazanan takımın ilanı
----
 
 ## Ödüller
 * 1.takıma 3D Yazıcı (3D4E)
