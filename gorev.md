@@ -146,6 +146,6 @@ HAVELSAN mühendisleri ve ODTÜ akademisyenlerinin jüri olarak yer alacağı bu
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdjQJUnU5HHuRAemPAgc9yDIT23SyjStp_YpYShRMHhZBNZCA/viewform?embedded=true" style="height:57rem;width:100%;" frameborder="0" marginheight="0" marginwidth="0">Yükleniyor…</iframe>
 
-<p class="text-muted">
+<p class="text-muted text-center">
       ODTÜ Robot Topluluğu, gerekli gördüğü takdirde kurallarda değişiklik yapma hakkını saklı tutar.
 </p>
