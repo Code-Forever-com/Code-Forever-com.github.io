@@ -116,7 +116,7 @@ HAVELSAN mühendisleri ve ODTÜ akademisyenlerinin jüri olarak yer alacağı bu
 </table>
 
 ## Ödüller
-* 1.takıma 3D Yazıcı (3D4E)
+* 1.takıma 3D Yazıcı (3D4E 4GenPro)
 * 2.takıma Drone (DJI Mavic Air 2 Fly More Combo) 
 * 3.takıma 5000 ₺
 
