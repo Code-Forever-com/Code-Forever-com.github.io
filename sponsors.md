@@ -9,12 +9,12 @@ layout: page
 <div class="row">
   <div class="col-12 col-md-6 d-flex">
     <a class="d-block m-auto" href="https://www.webtekno.com/">
-      <img src="https://robot.metu.edu.tr/wp-content/uploads/2020/10/webtekno.png">
+      <img src="/images/webtekno.png">
     </a>
   </div>
   <div class="col-12 col-md-6 d-flex">
     <a class="d-block m-auto" href="https://www.robolinkmarket.com/">
-      <img src="https://robot.metu.edu.tr/wp-content/uploads/2020/10/robolink.png">
+      <img src="/images/robolink.png">
     </a>
   </div>
 </div>
@@ -23,32 +23,32 @@ layout: page
 
 <div class="row">
   <div class="col-12 d-flex my-3">
-      <img class="d-block m-auto" src="https://robot.metu.edu.tr/wp-content/uploads/2020/10/stm.png">
+      <img class="d-block m-auto" src="/images/stm.png">
   </div>
   <div class="col-12 col-md-6 d-flex my-3">
-      <img class="d-block m-auto" src="https://robot.metu.edu.tr/wp-content/uploads/2020/10/cankaya.png">
+      <img class="d-block m-auto" src="/images/cankaya.png">
   </div>
   <div class="col-12 col-md-6 d-flex my-3">
-      <img class="d-block m-auto" src="https://robot.metu.edu.tr/wp-content/uploads/2020/10/genclik-ve-spor.png">
+      <img class="d-block m-auto" src="/images/genclik-ve-spor.png">
   </div>
   
   <div class="col-12 col-md-4 d-flex my-3">
-      <img class="d-block m-auto" src="https://robot.metu.edu.tr/wp-content/uploads/2020/10/3d4e.jpg">
+      <img class="d-block m-auto" src="/images/3d4e.jpg">
   </div>
   <div class="col-12 col-md-4 d-flex my-3">
-      <img class="d-block m-auto" src="https://robot.metu.edu.tr/wp-content/uploads/2020/10/robolink.png">
+      <img class="d-block m-auto" src="/images/robolink.png">
   </div>
   <div class="col-12 col-md-4 d-flex my-3">
-      <img class="d-block m-auto" src="https://robot.metu.edu.tr/wp-content/uploads/2020/10/odtuteknokent.png">
+      <img class="d-block m-auto" src="/images/odtuteknokent.png">
   </div>
   <div class="col-12 col-md-4 d-flex my-3">
-      <img class="d-block m-auto" src="https://robot.metu.edu.tr/wp-content/uploads/2020/10/elektrofizikci.jpg">
+      <img class="d-block m-auto" src="/images/elektrofizikci.jpg">
   </div>
   <div class="col-12 col-md-4 d-flex my-3">
-      <img class="d-block m-auto" src="https://robot.metu.edu.tr/wp-content/uploads/2020/10/nuhunmakarna.png">
+      <img class="d-block m-auto" src="/images/nuhunmakarna.png">
   </div>
   <div class="col-12 col-md-4 d-flex my-3">
-      <img class="d-block m-auto" src="https://robot.metu.edu.tr/wp-content/uploads/2020/10/yayla.jpg">
+      <img class="d-block m-auto" src="/images/yayla.jpg">
   </div>
 </div>
 
@@ -57,35 +57,35 @@ layout: page
 
 <div class="row">
   <div class="col-12 d-flex">
-      <img class="d-block m-auto" src="https://robot.metu.edu.tr/wp-content/uploads/2020/10/stm.png">
+      <img class="d-block m-auto" src="/images/stm.png">
   </div>
   <div class="col-12 col-md-6 d-flex my-3">
-      <img class="d-block m-auto" src="https://robot.metu.edu.tr/wp-content/uploads/2020/10/cankaya.png">
+      <img class="d-block m-auto" src="/images/cankaya.png">
   </div>
   <div class="col-12 col-md-6 d-flex my-3">
-      <img class="d-block m-auto" src="https://robot.metu.edu.tr/wp-content/uploads/2020/10/caykur.png">
+      <img class="d-block m-auto" src="/images/caykur.png">
   </div>
   
   <div class="col-12 col-md-4 d-flex my-3">
-      <img class="d-block m-auto" src="https://robot.metu.edu.tr/wp-content/uploads/2020/10/3d4e.jpg">
+      <img class="d-block m-auto" src="/images/3d4e.jpg">
   </div>
   <div class="col-12 col-md-4 d-flex my-3">
-      <img class="d-block m-auto" src="https://robot.metu.edu.tr/wp-content/uploads/2020/10/robolink.png">
+      <img class="d-block m-auto" src="/images/robolink.png">
   </div>
   <div class="col-12 col-md-4 d-flex my-3">
-      <img class="d-block m-auto" src="https://robot.metu.edu.tr/wp-content/uploads/2020/10/bogazici-ingilizce.png">
+      <img class="d-block m-auto" src="/images/bogazici-ingilizce.png">
   </div>
   <div class="col-12 col-md-3 d-flex my-3">
-      <img class="d-block m-auto" src="https://robot.metu.edu.tr/wp-content/uploads/2020/10/penguen.jpg">
+      <img class="d-block m-auto" src="/images/penguen.jpg">
   </div>
   <div class="col-12 col-md-3 d-flex my-3">
-      <img class="d-block m-auto" src="https://robot.metu.edu.tr/wp-content/uploads/2020/10/nuhunmakarna.png">
+      <img class="d-block m-auto" src="/images/nuhunmakarna.png">
   </div>
   <div class="col-12 col-md-3 d-flex my-3">
-      <img class="d-block m-auto" src="https://robot.metu.edu.tr/wp-content/uploads/2020/10/nescafe.png">
+      <img class="d-block m-auto" src="/images/nescafe.png">
   </div>
   <div class="col-12 col-md-3 d-flex my-3">
-      <img class="d-block m-auto" src="https://robot.metu.edu.tr/wp-content/uploads/2020/10/webtekno.png">
+      <img class="d-block m-auto" src="/images/webtekno.png">
   </div>
 </div>
 
