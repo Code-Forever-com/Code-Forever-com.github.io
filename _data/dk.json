@@ -1,16 +1,16 @@
 [
   {
-    "image": "https://robot.metu.edu.tr/wp-content/uploads/2020/10/IMG_20200223_145517_edited.jpg",
+    "image": "/images/IMG_20200223_145517_edited.jpg",
     "name": "Erkin Filiz",
     "label": "Denetleme Kurulu Üyesi"
   },
   {
-    "image": "https://robot.metu.edu.tr/wp-content/uploads/2020/10/omer.jpg",
+    "image": "/images/omer.jpg",
     "name": "Ömer Faruk Özbolat",
     "label": "Denetleme Kurulu Üyesi"
   },
   {
-    "image": "https://robot.metu.edu.tr/wp-content/uploads/2020/10/rsz_pp_edited.jpg",
+    "image": "/images/rsz_pp_edited.jpg",
     "name": "Huzeyfe Şirin",
     "label": "Denetleme Kurulu Üyesi"
   }
