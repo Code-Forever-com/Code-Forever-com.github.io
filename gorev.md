@@ -63,6 +63,14 @@ HAVELSAN mühendisleri ve ODTÜ akademisyenlerinin jüri olarak yer alacağı bu
 </div>
  
 
+## Proje Gelişim Raporu ve Sunum İçeriği
+
+<div class="row my-5">
+      <div class="col-12 text-center">
+      <a class="btn btn-primary btn-lg d-block" href="/images/Proje Gelişim Raporu ve Sunum İçeriği.pdf">Proje Gelişim Raporu ve Sunum İçeriği</a>
+      </div>
+</div>
+ 
 
 ## Önemli Tarihler
 
