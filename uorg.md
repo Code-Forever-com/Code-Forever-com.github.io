@@ -9,17 +9,17 @@ Türkiye ayağını TRT’nin 2002 yılında düzenlemeye başladığı Robocon 
 <div class="row">
 <div class="col-12 col-md-4">
 
-<img src="https://robot.metu.edu.tr/wp-content/uploads/2020/10/WhatsApp-Image-2020-09-10-at-11.07.59-PM.jpeg">
+<img src="/images/1.jpeg">
 
 </div>
 <div class="col-12 col-md-4">
 
-<img src="https://robot.metu.edu.tr/wp-content/uploads/2020/10/WhatsApp-Image-2020-09-10-at-11.04.54-PM.jpeg">
+<img src="/images/2.jpeg">
 
 </div>
 <div class="col-12 col-md-4">
 
-<img src="https://robot.metu.edu.tr/wp-content/uploads/2020/10/WhatsApp-Image-2020-09-10-at-11.08.04-PM.jpeg">
+<img src="/images/3.jpg">
 
 </div>
 </div>
@@ -29,12 +29,12 @@ Uluslararası ODTÜ Robot Günleri , her yıl 500’ün üzerinde yarışmacı v
 <div class="row">
 <div class="col-12 col-md-6">
 
-<img src="https://robot.metu.edu.tr/wp-content/uploads/2020/10/WhatsApp-Image-2020-09-10-at-11.09.30-PM.jpeg">
+<img src="/images/4.jpeg">
 
 </div>
 <div class="col-12 col-md-6">
 
-<img src="https://robot.metu.edu.tr/wp-content/uploads/2020/10/WhatsApp-Image-2020-09-10-at-11.07.35-PM.jpeg">
+<img src="/images/5.jpeg">
 
 </div>
 </div>
@@ -44,14 +44,14 @@ Uluslararası ODTÜ Robot Günleri , her yıl 500’ün üzerinde yarışmacı v
 <div class="row">
 <div class="col-12 col-md-6">
   
-<img src="https://robot.metu.edu.tr/wp-content/uploads/2020/10/WhatsApp-Image-2020-09-10-at-3.58.58-PM.jpeg">
+<img src="/images/6.jpeg">
 
 1. UORG Afişi
 
   </div>
 <div class="col-12 col-md-6">
 
-<img src="https://robot.metu.edu.tr/wp-content/uploads/2020/10/WhatsApp-Image-2020-09-10-at-4.00.48-PM.jpeg">
+<img src="/images/7.jpeg">
 
 17. UORG Afişi
   
