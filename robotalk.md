@@ -8,10 +8,10 @@ ODTÜ Robot Topluluğu olarak düzenlediğimiz Robotalks etkinliği şirketlerin
 
 <div class="row">
 <div class="col-12 col-md-6">
-<img src="https://robot.metu.edu.tr/wp-content/uploads/2020/10/WhatsApp-Image-2020-09-10-at-10.45.16-PM.jpeg">
+<img src="/images/WhatsApp Image 2020-09-10 at 10.45.16 PM (1).jpeg">
 </div>
 <div class="col-12 col-md-6">
-<img src="https://robot.metu.edu.tr/wp-content/uploads/2020/10/WhatsApp-Image-2020-09-10-at-10.45.16-PM-1.jpeg">
+<img src="/images/WhatsApp Image 2020-09-10 at 10.45.16 PM.jpeg">
 </div>
 </div>
 
