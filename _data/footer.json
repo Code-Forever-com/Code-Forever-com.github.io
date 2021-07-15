@@ -61,24 +61,24 @@
                 "url" : "/robotalks/"
             },
             {
-                "title": "NEW!",
-                "url" : "#"
+                "title": "Görev: Yer Altı",
+                "url" : "/gorev-yer-alti/"
             }
         ]
     },
     {
-        "title": "Other Pages",
+        "title": "Diğer Sayfalar",
         "datas": [
             {
-                "title": "Privacy Policy",
+                "title": "Gizlilik Politikası",
                 "url" : "/privacy-policy/"
             },
             {
-                "title": "Cookie Policy",
+                "title": "Çerez Politikası",
                 "url" : "#"
             },
             {
-                "title": "Storage Policy",
+                "title": "Depolama Politikası",
                 "url" : "#"
             }
         ]
