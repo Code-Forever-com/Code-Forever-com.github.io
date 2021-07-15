@@ -9,7 +9,7 @@ name: ORT
 description: ODTU Robot Topluluğu Resmi Websitesi 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://robot.metu.edu.tr/wp-content/uploads/2020/10/ort.png
+avatar: /images/topluluk logo.png
 
 #
 # Flags below are optional
