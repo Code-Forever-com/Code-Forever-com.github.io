@@ -26,11 +26,6 @@ header{
 
 .hero-con{
     height: 100vh;
-    background: url(https://robot.metu.edu.tr/wp-content/uploads/2020/10/9c2c21_f2bd06acc52447f283e8a5c062e578e6mv2_d_4288_2848_s_4_2-1.jpg);
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
 }
 
 .hero-con .row{
@@ -43,22 +38,44 @@ header{
   <div class="container-fluid hero-con">
     <div class="row">
       <div class="col-12 text-center d-flex">
-        <div class="my-auto">
-          <h1 class="text-light">ODTÜ Robot Topluluğu</h1>
-          <p class="text-light">Çeşitli uzman disiplin alanlarında kazanılmış bilgi ve becerilerini takım çalışması ve ruhu içerisinde aktarmayı sağlamak amacıyla kurulmuş Türkiye’nin ilk Robot Topluluğu’dur.</p>
+       <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+          <div class="carousel-indicators">
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3" aria-label="Slide 4"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="4" aria-label="Slide 5"></button>
+          </div>
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <img src="/images/1 (1).jpg" class="d-block w-100" alt="toplu fotoğraf">
+            </div>
+            <div class="carousel-item active">
+              <img src="/images/2 (1).jpeg" class="d-block w-100" alt="org">
+            </div>
+            <div class="carousel-item active">
+              <img src="/images/3 (1).jpg" class="d-block w-100" alt="kırmızı araba">
+            </div>
+            <div class="carousel-item active">
+              <img src="/images/4 (1).jpeg" class="d-block w-100" alt="org toplu">
+            </div>  
+            <div class="carousel-item active">
+              <img src="/images/5 (1).jpeg" class="d-block w-100" alt="mavi araba">
+            </div> 
+          </div>
+          <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+          </button>
+          <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+          </button>
         </div>
       </div>
     </div>
   </div>
 </header>
 
-<section class="py-5 bg-dark">
-  <div class="container">
-    <div class="row">
-      <div class="col-12">
-        
-      </div>
-    </div>
-  </div>
-</section>
+
 
